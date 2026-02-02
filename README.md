@@ -5,4 +5,7 @@ This repository is for personal learning and experimentation.
 langchain models code repo:
 https://github.com/campusx-official/langchain-models
 
+lanchain prompts
+https://github.com/campusx-official/langchain-prompts
+
 
