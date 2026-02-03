@@ -8,4 +8,7 @@ https://github.com/campusx-official/langchain-models
 lanchain prompts
 https://github.com/campusx-official/langchain-prompts
 
+Structured Output 
+https://github.com/campusx-official/langchain-structured-output
+
 
