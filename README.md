@@ -13,3 +13,6 @@ https://github.com/campusx-official/langchain-structured-output
 
 output parser 
 https://github.com/campusx-official/langchain-output-parsers
+
+chains 
+https://github.com/campusx-official/langchain-chains
