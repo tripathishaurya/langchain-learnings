@@ -16,3 +16,9 @@ https://github.com/campusx-official/langchain-output-parsers
 
 chains 
 https://github.com/campusx-official/langchain-chains
+
+runnables basics
+https://colab.research.google.com/drive/1gv3e-OfHCi6IuVBVR7xWmrcVl6gHsydv?usp=sharing
+
+runnables primitive
+https://github.com/campusx-official/langchain-runnables
