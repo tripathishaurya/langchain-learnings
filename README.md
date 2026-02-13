@@ -22,3 +22,6 @@ https://colab.research.google.com/drive/1gv3e-OfHCi6IuVBVR7xWmrcVl6gHsydv?usp=sh
 
 runnables primitive
 https://github.com/campusx-official/langchain-runnables
+
+Document loaders
+https://github.com/campusx-official/langchain-document-loaders/
