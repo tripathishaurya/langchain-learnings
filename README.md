@@ -25,3 +25,6 @@ https://github.com/campusx-official/langchain-runnables
 
 Document loaders
 https://github.com/campusx-official/langchain-document-loaders/
+
+Text splitters
+https://github.com/campusx-official/langchain-text-splitters
