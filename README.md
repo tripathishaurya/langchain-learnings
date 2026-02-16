@@ -28,3 +28,6 @@ https://github.com/campusx-official/langchain-document-loaders/
 
 Text splitters
 https://github.com/campusx-official/langchain-text-splitters
+
+Vector store
+https://colab.research.google.com/drive/1VwOywJ9LPSIpKWKj9vueVoexSCzGHXNC?usp=sharing
